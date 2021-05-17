@@ -6,9 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jens Lundeqvis",
   "license": "ISC",
-  "description": "",
+  "description": "Array med class objekt tillsammans med sort, map och filter",
   "dependencies": {
     "nodemon": "^2.0.7"
   }
